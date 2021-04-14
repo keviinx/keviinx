@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Scientific Computing with Python
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Rust 🦀
 
 ### 🌟 My GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=keviinx&show_icons=true)
