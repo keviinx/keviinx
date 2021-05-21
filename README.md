@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Scientific Computing with Python
+- 🔭 I’m currently working on game development with Godot
 - 🌱 I’m currently learning Rust 🦀
 
 ### 🌟 My GitHub Stats
