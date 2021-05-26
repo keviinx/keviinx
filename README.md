@@ -2,12 +2,15 @@
 
 - 🔭 I’m currently working on game development with Godot
 - 🌱 I’m currently learning Rust 🦀
+- 🎮 I'm currently contributing to Godot game engine Malay translation
 
 ### 🌟 My GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=keviinx&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keviinx&theme=blue-green)
 
+### 🇲🇾 Godot Malay translation progress
+[![Translation status](https://hosted.weblate.org/widgets/godot-engine/ms/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/ms/)
 <!--
 **keviinx/keviinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
