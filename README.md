@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I 😍 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 - 🔭 I’m currently working on game development with Godot
 - 🌱 I’m currently learning Rust 🦀
 - 🎮 I'm currently contributing to Godot game engine Malay translation
