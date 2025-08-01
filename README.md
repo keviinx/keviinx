@@ -15,7 +15,8 @@
 [![Translation status](https://hosted.weblate.org/widgets/godot-engine/ms/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/ms/)
 
 ### 🇲🇾 Linux Mint Malay translation
-[Link](https://translations.launchpad.net/linuxmint/latest/+lang/ms)
+![Static Badge](https://img.shields.io/badge/translated-48%25-red)
+
 <!--
 **keviinx/keviinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
